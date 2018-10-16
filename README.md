@@ -14,3 +14,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-a
 # EDA
 
 https://www.itl.nist.gov/div898/handbook/eda/eda.htm
+
+# Julia
+
+https://julialang.org/learning/

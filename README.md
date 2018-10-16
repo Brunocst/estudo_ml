@@ -10,3 +10,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-in
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/
+
+# EDA
+
+https://www.itl.nist.gov/div898/handbook/eda/eda.htm

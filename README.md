@@ -18,3 +18,8 @@ https://www.itl.nist.gov/div898/handbook/eda/eda.htm
 # Julia
 
 https://julialang.org/learning/
+
+https://blog.simos.info/learning-the-julia-computer-language-on-ubuntu/
+
+http://ucidatascienceinitiative.github.io/IntroToJulia/
+

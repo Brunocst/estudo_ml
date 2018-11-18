@@ -23,3 +23,8 @@ https://blog.simos.info/learning-the-julia-computer-language-on-ubuntu/
 
 http://ucidatascienceinitiative.github.io/IntroToJulia/
 
+https://juliacomputing.com/domains/ml-and-ai.html
+
+https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/
+
+https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf0d00

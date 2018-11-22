@@ -36,3 +36,6 @@ https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf
 # ML
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/?fbclid=IwAR2N4RgUn1bplkD3-yuU73F6nzV17N4rPWxw5lVP7yB43a-aqRkDK9LJttg
+
+# GMAT
+https://www.amazon.com/Cracking-Premium-Computer-Adaptive-Practice-Tests/dp/0451487567

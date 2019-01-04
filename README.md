@@ -3,6 +3,8 @@ study guide
 
 # Algorithms
 
+Ver aula de algoritmo do MIT e tentar implementar na pratica um de cada vez
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/

@@ -76,13 +76,22 @@ Estudar e implementar lista de algoritmos:
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/?fbclid=IwAR2N4RgUn1bplkD3-yuU73F6nzV17N4rPWxw5lVP7yB43a-aqRkDK9LJttg
 
+##### Fast.ai
+
+https://www.fast.ai
+
 ##### NLP - Natural Language Processing
 
 ##### RL - Reinforcement learning
 
+
+
 ##### GAN - Generaticve adversarial networks
 
 ##### Apresentação de dados e gráficos
+
+##### Tableau
+
 
 Seaborn 
 
@@ -122,18 +131,52 @@ https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf
 
 ## Engenharia de dados
 
+Livro: 
+- Designin Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems;
+- Database Reliability Engineering: Designing and Operating Resilient Database Systems;
+- Foundations for Architecting Data Solutions: Managing Successful Data Projects;
+- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing;
+- Kafka in Action;
+
+https://blog.insightdatascience.com/tagged/insight-data-engineering
+
+##### POSTGRESQL
+
+Livros:
+- O'Reilly Head First SQL
+- PostgreSQL 9.0 High Performance
+
+
+##### MONGODB
+
+
 ##### ETL
 
 - Airflow
-- 
+    - https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94
+    - https://medium.com/tag/data-engineering/archive/2019
 
-##### Kafta
+##### Kafka
 
-##### 
+##### Hadoop
+
+
+##### Spark
 
 
 
 ## Gerenciamento de projetos
+
+Livros:
+- The managers Path;
+- First Break all the Rules;
+- Marcus aurelius Meditations;
+
+videos:
+- https://www.youtube.com/watch?v=qg2edTTcRfE&t=1107s;
+- https://www.youtube.com/watch?v=a_IYL_aU7HQ&t=1510s;
+- https://www.youtube.com/watch?v=XoBJwxuPynk;
+- 
 
 ## Diversos
 
@@ -144,5 +187,3 @@ The school of life liderança
 https://www.amazon.com/Cracking-Premium-Computer-Adaptive-Practice-Tests/dp/0451487567
 
 https://brilliant.org/courses/#popular
-
-

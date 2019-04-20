@@ -12,6 +12,8 @@ O roeiro esta dividido em 7 tópicos:
 
 ## Método de estudo
 
+Usei o dillinger para ajundar a escrever o Markdown.
+
 ##### Agenda de estudos
 Dias :
 - Domingo 

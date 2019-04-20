@@ -13,10 +13,17 @@ O roeiro esta dividido em 7 tópicos:
 ## Método de estudo
 
 ##### Agenda de estudos
+Dias :
+- Domingo 
+- Segunda-feira
+- Quarta-feira
+- Quinta-feira
+- Sabado
 
 ##### Resumos da matéria
 
-##### Divisão do caderno
+##### Caderno
+Utilizado o método cornell par do caderno, divisão entre assunto principal, dúvidas e resumo.
 
 ##### Fichas de estudo e revisão
 
@@ -69,7 +76,17 @@ Estudar e implementar lista de algoritmos:
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/?fbclid=IwAR2N4RgUn1bplkD3-yuU73F6nzV17N4rPWxw5lVP7yB43a-aqRkDK9LJttg
 
-##### Apresentação de daods e gráficos
+##### NLP - Natural Language Processing
+
+##### RL - Reinforcement learning
+
+##### GAN - Generaticve adversarial networks
+
+##### Apresentação de dados e gráficos
+
+Seaborn 
+
+Livros:
 
 ## Programação
 
@@ -107,6 +124,15 @@ https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf
 
 ##### ETL
 
+- Airflow
+- 
+
+##### Kafta
+
+##### 
+
+
+
 ## Gerenciamento de projetos
 
 ## Diversos
@@ -118,4 +144,5 @@ The school of life liderança
 https://www.amazon.com/Cracking-Premium-Computer-Adaptive-Practice-Tests/dp/0451487567
 
 https://brilliant.org/courses/#popular
+
 

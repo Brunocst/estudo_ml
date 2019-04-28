@@ -67,6 +67,9 @@ Utilizado caderno para realizar resumo das matérias e exercícios.
 
 https://www.itl.nist.gov/div898/handbook/eda/eda.htm
 
+Livros:
+- Python for data analysis
+
 
 ###### ML
 
@@ -77,6 +80,9 @@ Estudar e implementar lista de algoritmos:
 - 
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/?fbclid=IwAR2N4RgUn1bplkD3-yuU73F6nzV17N4rPWxw5lVP7yB43a-aqRkDK9LJttg
+
+Livros:
+- Hands on Marchine Learning
 
 ##### Fast.ai
 
@@ -131,6 +137,14 @@ https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-s
 
 https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf0d00
 
+#### Python
+
+https://www.udemy.com/algorithms-and-data-structures-in-python/learn/v4/overview
+
+#### Regex - Python
+
+https://www.udemy.com/python-regular-expressions/learn/v4/overview
+
 ## Engenharia de dados
 
 Livro: 
@@ -151,6 +165,7 @@ Livros:
 
 ##### MONGODB
 
+https://www.udemy.com/mongodb-essentials/learn/v4/overview
 
 ##### ETL
 
@@ -162,6 +177,8 @@ Livros:
 
 ##### Hadoop
 
+https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/learn/v4/overview
+https://www.udemy.com/taming-big-data-with-spark-streaming-hands-on/learn/v4/overview
 
 ##### Spark
 

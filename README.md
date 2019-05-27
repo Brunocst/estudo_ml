@@ -47,6 +47,8 @@ Utilizado caderno para realizar resumo das matérias e exercícios.
 - Livros:
     - Algebra Linear - volume 1 - fundação cecierj - [Status: ]
     - Algebra Linear - volume 2 - fundação cecierj - [Status:]
+    
+   https://web.stanford.edu/~boyd/vmls/
 
 #### Estatistica
 
@@ -62,6 +64,8 @@ Utilizado caderno para realizar resumo das matérias e exercícios.
 
 
 ## Ciencia de dados
+
+journal of machine learning research - https://www.jmlr.org
 
 ###### EDA - Exploratory data analysis
 
@@ -123,6 +127,8 @@ https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelin
 
 https://leetcode.com/explore/learn/
 
+https://pt.coursera.org/learn/algorithms-part1
+
 ##### Julia
 
 https://julialang.org/learning/
@@ -140,6 +146,12 @@ https://medium.com/@arshpreetsingh/engineers-guide-to-julia-programming-8c78cdbf
 #### Python
 
 https://www.udemy.com/algorithms-and-data-structures-in-python/learn/v4/overview
+
+https://notes-on-cython.readthedocs.io/en/latest/std_dev.html
+
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
+
+https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65
 
 #### Regex - Python
 

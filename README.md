@@ -2,7 +2,8 @@
 
 Esse roteiro foi realizado para controlar meus estudos em data science com algumas observações que julgar importante. estão misturados materiais pagos como livros e cursos com materiais sem custo(internet).
 O roeiro esta dividido em 7 tópicos: 
-- Matematica e estatistica;  
+- Estatistica e probavilidade;
+- Algebra linear;
 - Ciencia de dados;
 - Programação;
 - Engenharia de dados;
